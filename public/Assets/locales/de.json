@@ -30,7 +30,7 @@
     "subplace": "Unterbereich",
     "subplaceUpper": "UNTERBEREICH",
     "offline": "Offline",
-    "website": "Website",
+    "website": "Webseite",
     "playing": "Spielt",
     "playingGame": "Spielt {{gameName}}",
     "studio": "Studio",
@@ -56,31 +56,31 @@
     "title": "RoValra Regionen Ausw#hler",
     "automatic": "Automatisch",
     "servers": "Server: ",
-    "datacenters": "Datacenters: ",
+    "datacenters": "Datenzentren: ",
     "filterByRegion": "Server nach Region filtern",
-    "filterByRegionItem": "Filtern by {{region}} ({{count}} servers)",
-    "filterByUptime": "Filtern servers by uptime (newest/älteste)",
+    "filterByRegionItem": "Filtern nach {{region}} ({{count}} Servern)",
+    "filterByUptime": "Servern nach Betriebszeit filtern (neuste/älteste)",
     "filterByVersion": "Server nach Spielversion filtern"
   },
   "guidelines": {
-    "title": "RoValra Guidelines",
-    "message": "Bei nutzung von Rovalra Stimmst du zu keine von unsereren regeln zu brechen. Lese mehr bei: <a href=\"https://www.rovalra.com/tou/\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline;\">rovalra.com/tou</a>.",
-    "confirm": "I Understand"
+    "title": "RoValra Rechtslinien",
+    "message": "Bei Nutzung von Rovalra stimmst du zu keine von unsereren Regeln zu brechen. Lese mehr bei: <a href=\"https://www.rovalra.com/tou/\" target=\"_blank\" style=\"color: #007bff; text-decoration: underline;\">rovalra.com/tou</a>.",
+    "confirm": "Ich stimme zu"
   },
   "review": {
-    "requestMessage": "Es sieht so aus als hättest du etwas zu beklagen!\n Wollen sie eine Bewertung da lassen?\n Es hilft RoValra kostenlos zu bleiben ohne Produkte hinter einer Kostenpflicht zu tun.",
+    "requestMessage": "Es sieht so aus als hättest du etwas zu beklagen!\n Wollen Sie eine Bewertung da lassen?\n Es hilft RoValra kostenlos zu bleiben ohne Produkte hinter einer Kostenpflicht zu tun.",
     "leaveReview": "Bewertung da lassen?",
     "notNow": "Nicht jetzt",
     "doNotShowAgain": "Nicht erneut anzeigen",
     "rateTitle": "Bewerte RoValra",
-    "donationMessage": "Sachen wie der regionen sucher sind nicht kostenlos und Spenden durch unsere Gamepasse helfen uns sie weiter in Rovalra zu lassen.\n\nDonating helps us keep the servers running so features like dies kann stay kostenlos für everyone.",
+    "donationMessage": "Sachen wie der Regionensucher sind nicht kostenlos und Spenden durch unsere Gamepasse helfen uns Sie weiter in Rovalra zu lassen.\n\nSpenden helfen uns unsere Servern zu betreiben, sodass features wie diese kostenlos für jeden bleiben.",
     "donate": "Spenden",
     "donationTitle": "Möchten sie eine Spendung zu Rovalra Lassen??"
   },
   "heatmap": {
     "updatesBetween": "Updatet von {{start}} - {{end}} am {{date}}",
     "updatesOn": "Updatet am {{date}}",
-    "trackingSince": "Aktualisierung Geschichte ist am funktionieren seit Februar 15, 2026"
+    "trackingSince": "Aktualisierungsliste ist am laufen seit Februar 15, 2026"
   },
   "profileFeatures": {
     "title": "RoValra Funktionen"
@@ -88,7 +88,7 @@
   "serverFilters": {
     "newest": "Neuester Server",
     "oldest": "Älteste Server",
-    "uptime": "Server HochZeit",
+    "uptime": "Server Betriebszeit",
     "version": "Version",
     "enterVersion": "Gib eine Version ein",
     "region": "Region",
@@ -100,19 +100,19 @@
     "version": "Version {{version}}",
     "versionLabel": "Version",
     "regionTooltip": "Server Region: {{region}}",
-    "performanceTooltip": "Server performenz",
+    "performanceTooltip": "Server Leistung",
     "latest": " (Neueste)",
     "oldest": " (Älteste)",
     "serverFull": "Server ist voll",
     "privateServer": "Spielt auf einem privaten Server",
     "purchaseGame": "Kaufe das Spiel, um Regionen zu sehen.",
-    "currentVersionTooltip": "Die aktuelle versionen wurde veröffentlicht."
+    "currentVersionTooltip": "Die aktuelle Version wurde veröffentlicht."
   },
   "serverStats": {
-    "totalServers": "Server insgesamt",
-    "totalServersTooltip": "Gesamt servers von Rovalra sind in diesem spiel am tracken.",
+    "totalServers": "Insgesamte Anzahl an Servern",
+    "totalServersTooltip": "Gesamtzahl der Servern die RoValra zu diesem Spiel erfasst.",
     "oldest": "Ältester",
-    "oldestTooltip": "The älteste Version die einen server am rennen ist."
+    "oldestTooltip": "Die älteste Version die einen Server am rennen ist."
   },
   "preferredRegion": {
       "criticalError": "Die Roblox-Beitritts-API antwortet nicht. Du musst eventuell einen Moment warten.\nDas liegt meistens an einem Netzwerkproblem oder an einem Problem mit den Roblox-Servern. Wenn es weiterhin auftritt, deaktiviere [Bevorzugte Region.](https://www.roblox.com/my/account?rovalra=search&q=preferredregionenabled#!/search) oder leere den Browser-Cache.\nWenn das Problem weiterhin besteht, melde es bitte im RoValra-Discord-Server.\n\n---\n**Fehlerdetails:**\n{{detailMsg}}",
